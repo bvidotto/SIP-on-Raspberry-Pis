@@ -1,4 +1,4 @@
-# VoIP to Audio Decoder Using Raspberry Pi
+# VoIP to Audio Decoder Using Raspberry Pis
 Intership project (4th year (2020-2021)
 
 **Author**: Benoît Vidotto
