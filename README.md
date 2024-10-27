@@ -1,5 +1,5 @@
 # VoIP to Audio Decoder Using Raspberry Pi
-Intership project (4th year)
+Intership project (4th year (2020-2021)
 
 **Author**: Benoît Vidotto
 
@@ -64,7 +64,7 @@ The Raspberry Pi prototype is exceptionally cost-effective, being **13 times che
 
    <p align="center">
       <img src="./images/image22.webp" alt="bar" width="60%">
-      </p><p align="center"><em>Cost analysis of the different options (Food has been wrongly translated from "Power Supply")</em>
+      </p><p align="center"><em>Cost analysis of the different options</em>
    </p>
 
 
@@ -162,6 +162,8 @@ Looking ahead, several enhancements can be made:
       <img src="./images/image40.webp" alt="bar" width="33%">
       </p><p align="center"><em>Existing command line interface.</em>
    </p>
+
+---
 
 ### Installation
 Instructions for the installation on Raspberry are available in raspberry.md
